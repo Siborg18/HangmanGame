@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/simon/VSCodeProjects/HangmanGame/build",
+  "command": "/usr/bin/g++ -I/home/simon/VSCodeProjects/HangmanGame/src -I/home/simon/VSCodeProjects/HangmanGame/includes -g -std=gnu++17 -o CMakeFiles/main.dir/main.cpp.o -c /home/simon/VSCodeProjects/HangmanGame/main.cpp",
+  "file": "/home/simon/VSCodeProjects/HangmanGame/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+}
+]

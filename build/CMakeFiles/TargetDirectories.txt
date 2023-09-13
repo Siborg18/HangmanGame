@@ -1,0 +1,3 @@
+/home/simon/VSCodeProjects/HangmanGame/build/CMakeFiles/main.dir
+/home/simon/VSCodeProjects/HangmanGame/build/CMakeFiles/edit_cache.dir
+/home/simon/VSCodeProjects/HangmanGame/build/CMakeFiles/rebuild_cache.dir
